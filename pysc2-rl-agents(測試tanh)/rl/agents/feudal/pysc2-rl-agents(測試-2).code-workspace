@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../../../pysc2-rl-agents(測試-2)"
+		},
+		{
+			"path": "../../../../pysc2-rl-agents(測試-3)"
+		},
+		{
+			"path": "../../../../git connect/newestfeudal"
+		},
+		{
+			"path": "../../../../pysc2-rl-agents(測試print)"
+		},
+		{
+			"path": "../../../../pysc2-rl-agents(測試worker)"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {}
+}
